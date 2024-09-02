@@ -12,12 +12,17 @@ ChatApp, gerçek zamanlı sohbet özellikleri sunan basit ve etkili bir web uygu
 
 1. **Depoyu Klonlayın:**
     ```bash
-    git clone https://github.com/kullaniciadi/chatapp.git
+    git clone https://github.com/uwpear/chat-app.git
     ```
 
 2. **Proje Dizini İçine Girin:**
     ```bash
     cd chatapp
+    ```
+    
+2. **Node.js indirin:**
+    ```bash
+    https://nodejs.org/en/download/package-manager
     ```
 
 3. **Bağımlılıkları Yükleyin:**
