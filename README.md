@@ -5,7 +5,6 @@ ChatApp, gerçek zamanlı sohbet özellikleri sunan basit ve etkili bir web uygu
 ## 🚀 Özellikler
 
 - **Gerçek Zamanlı Mesajlaşma:** Kullanıcılar arasında anlık mesajlaşma imkanı.
-- **Kanal Desteği:** Farklı sohbet odaları (kanallar) oluşturabilirsiniz.
 - **Kolay Kurulum:** Hızlıca kurulum yaparak sohbet uygulamanızı çalıştırabilirsiniz.
 
 ## 💻 Kurulum
